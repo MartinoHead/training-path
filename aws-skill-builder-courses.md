@@ -15,6 +15,8 @@ Start here for anyone new to AWS.
 
 The most popular foundational course. Covers cloud concepts, core services, security, architecture, pricing.
 
+> **Note for QAs:** Take this course as your primary cloud foundation. You can skip Course #2 (Cloud Quest) to avoid redundancy and save ~12 hours.
+
 ⏱ **~6 hours**
 
 - Landing page: [aws.amazon.com/training/classroom/aws-cloud-practitioner-essentials](https://aws.amazon.com/training/classroom/aws-cloud-practitioner-essentials/)
@@ -24,6 +26,8 @@ The most popular foundational course. Covers cloud concepts, core services, secu
 ### 2. AWS Cloud Quest: Cloud Practitioner
 
 Game-based learning, very engaging. Builds practical skills through interactive challenges in a live AWS environment. Free tier available.
+
+> **Note for QAs:** Optional alternative to Course #1 if you prefer gamified learning over lecture-style. Do not take both.
 
 ⏱ **~12 hours** (self-paced, varies by player)
 
