@@ -75,7 +75,9 @@ Comprehensive path for developers wanting security skills. Covers IAM troublesho
 
 Curated path covering Lambda foundations, API Gateway, architecting serverless apps, scaling, security & observability, deployment, and event-driven architectures (Step Functions, SQS). Earns a digital badge upon completion. Free.
 
-⏱ **~10-12 hours** (7 courses + assessment)
+> **QA Focus (~5-6 hours):** Focus on **Lambda foundations**, **API Gateway**, and **event-driven architectures (SQS, Step Functions)** to understand async event triggers, payloads, and DLQs. Skip/skim advanced architecture, deployment, and scaling modules.
+
+⏱ **~10-12 hours** (7 courses + assessment; ~5-6 hours for QA focus)
 
 - Info: [aws.amazon.com/training/learn-about/serverless](https://aws.amazon.com/training/learn-about/serverless/)
 - Blog: [aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges](https://aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges/)
@@ -85,7 +87,9 @@ Curated path covering Lambda foundations, API Gateway, architecting serverless a
 
 Covers interacting with tables programmatically, data modeling, and advanced operations.
 
-⏱ **~6-8 hours** (~90-150 min per course × 3 courses)
+> **QA Focus (~2-3 hours):** Take Course 1 (interacting with tables, querying, scanning, and viewing items in Console/CLI for test verification). Skip advanced data modeling (single-table design) and complex programmatic transactions.
+
+⏱ **~6-8 hours** (~90-150 min per course × 3 courses; ~2-3 hours for QA focus)
 
 - Blog: [aws.amazon.com/blogs/training-and-certification/accelerate-your-application-development-skills-with-three-free-amazon-dynamodb-courses](https://aws.amazon.com/blogs/training-and-certification/accelerate-your-application-development-skills-with-three-free-amazon-dynamodb-courses/)
 - On Skill Builder: search **"Amazon DynamoDB"**
@@ -156,16 +160,16 @@ For devs who want to go deeper into architecture.
 
 ## Total Time Estimates by Learning Path
 
-### For QAs (courses 1 → 2 → 4 → 10 → 7)
+### For QAs (courses 1 → 4 → 10 → 7 [QA Focus] → 8 [QA Focus])
 
 | Course | Hours |
 |--------|-------|
 | 1. Cloud Practitioner Essentials | ~6h |
-| 2. Cloud Quest: Cloud Practitioner | ~12h |
 | 4. Security Fundamentals | ~2h |
 | 10. AWS Observability | ~5h |
-| 7. Serverless Learning Plan | ~10-12h |
-| **Total** | **~35-37h** |
+| 7. Serverless Learning Plan (QA Focus) | ~5-6h |
+| 8. DynamoDB for Developers (QA Focus) | ~2-3h |
+| **Total** | **~20-22h** |
 
 ### For Devs (courses 1 → 7 → 8 → 9 → 6)
 
